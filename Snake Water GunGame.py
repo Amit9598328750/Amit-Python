@@ -33,7 +33,7 @@ print(f"you choose {you}")
 if a==None:
     print("Game tie!!")
 elif a==True:
-    print("You are Winner!1")
+    print("You are Winner!")
 else:
     print("you Lose!!")
 
